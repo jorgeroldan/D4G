@@ -1,4 +1,3 @@
-![LOGO](http://www.laburojoven.com/images/logo.png)
 ![GitHub Logo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 #### Developers 4 Good
@@ -11,9 +10,9 @@
 
 ---
 
-### Prueba <span style="color: #e49436; text-transform: none">PITCHME.md</span> Hola Mundo
+### En <span style="color: #e49436; text-transform: none">#D4G</span> creeemos en el poder de la colaboración!
 <br>
-<span style="color:gray; font-size:0.6em;">[ Aqui ]</span>
+<span style="color:gray; font-size:0.6em;">[ Un espacio para programadores y no programadores con impacto social]</span>
 
 ---
 
