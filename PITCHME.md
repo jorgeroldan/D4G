@@ -1,12 +1,12 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
+![LOGO](http://www.laburojoven.com/images/logo.png)
 
-#### Get the word out
+#### Developers 4 Good
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
+<span style="color:gray">Espacio para programadores y no programadores</span>
 <br>
-<span style="color:gray">on</span>
+<span style="color:gray">organizan</span>
 <br>
-<span style="color:gray">GitHub, GitLab, Bitbucket, Gitea, Gogs, and GitBucket</span>
+<span style="color:gray">Laburojoven.com</span>
 
 ---
 
