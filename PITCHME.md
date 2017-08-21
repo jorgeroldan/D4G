@@ -1,7 +1,7 @@
+#### Developers 4 Good 
+![](www.developersforgood.com)
 ![#Sumate a la comunidad #Developers4Good](http://www.mobilemonday.net/rm/1.gif)
 
-
-#### Developers 4 Good
 <br>
 <span style="color:gray">Espacio para programadores y no programadores</span>
 <br>
@@ -12,21 +12,41 @@
 ---
 
 ### En <span style="color: #e49436; text-transform: none">#D4G</span> creeemos en el poder de la colaboración!
+![Colaboración](https://media.giphy.com/media/cJ6koIC4PecNO/giphy.gif)
+
 <br>
 <span style="color:gray; font-size:0.6em;">[ Un espacio para programadores y no programadores con impacto social]</span>
 
 ---
 
-### Tranformar ideas <span style="color: #666666">en prototipos digitales.</span>
-### Movilizar el <span style="color: #666666">capital social</span>
-<br>
-### Encarando <span style="color: #e49436">Markdown</span> problemáticas sociales <span style="color: #e49436">ODS</span>.
+### ¿Quienes organizan?
+
+Personas, Empresas y Organizaciones que quieren aprovechar la tecnología para generar impacto social 
+
+| Organización | + Info |
+| ------ | ------ |
+| NahualIT | [plugins/dropbox/README.md] [PlDb] |
+|  | [plugins/github/README.md] [PlGh] |
+| Google Drive | [plugins/googledrive/README.md] [PlGd] |
+| 10 Pines | empresa de desarrollo de software con un sistema de trabajo horizontal, sin personal jerarquizado |
+| Mumuki | plataforma libre y gratuita para aprender y enseñar a programar |
+| Laburojoven.com | Portal de empleo digital |
 
 ---
 
-<span style="color: #e49436">#Developers4Good</span>
+### 1 <span style="color: #666666">Comunidad.</span>
+### 8 <span style="color: #666666">horas</span>
+<br>
+### 5 <span style="color: #e49436">problemáticas sociales</span> #hackTheWorld <span style="color: #e49436">ODS</span>.
 
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
+![#hackTheWorld](https://media.giphy.com/media/uRz0rfdjuIsrC/giphy.gif)
+
+
+---
+
+<span style="color: #e49436">#Organizaciones</span>
+
+![MARKDOWN](http://www.resistenciahuemul.com.ar/imgs/noticias/Acciones%20sociales31%20Argentina.%20Emprendedores%20y%20la%20ayuda%20economica%20de%20usuarios%20%2021May16.gif)
 
 Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
 
@@ -81,3 +101,32 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ### Go for it.
 ### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+
+
+
+
+
+* [markdown-it] - Markdown parser done right. Fast and easy to extend.
+* [Twitter Bootstrap] - great UI boilerplate for modern web apps
+* [node.js] - evented I/O for the backend
+* [Express] - fast node.js network app framework [@tjholowaychuk]
+* [Gulp] - the streaming build system
+* [Breakdance](http://breakdance.io) - HTML to Markdown converter
+
+
+
+
+
+
+---
+
+![Te sumas](http://www.resistenciahuemul.com.ar/imgs/noticias/Acciones%20sociales31%20Argentina.%20Emprendedores%20y%20la%20ayuda%20economica%20de%20usuarios%20%2021May16.gif)
+
+--
+
+
+
+
+
+`
+
