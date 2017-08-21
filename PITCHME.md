@@ -1,4 +1,4 @@
-// ![#Developers4Good](http://www.mobilemonday.net/rm/1.gif)
+![#Sumate a la comunidad #Developers4Good](http://www.mobilemonday.net/rm/1.gif)
 
 
 #### Developers 4 Good
