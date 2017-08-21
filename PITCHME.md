@@ -1,12 +1,13 @@
-![GitHub Logo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+// ![#Developers4Good](http://www.mobilemonday.net/rm/1.gif)
+
 
 #### Developers 4 Good
 <br>
 <span style="color:gray">Espacio para programadores y no programadores</span>
 <br>
-<span style="color:gray">organizan</span>
+<span style="color:gray">Sumate a la comunidad y pasá de la protesta a la propuesta</span>
 <br>
-<span style="color:gray">Laburojoven.com</span>
+<span style="color:gray">Comunidad #Developers4Good</span>
 
 ---
 
@@ -16,14 +17,14 @@
 
 ---
 
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
+### Tranformar ideas <span style="color: #666666">en prototipos digitales.</span>
+### Movilizar el <span style="color: #666666">capital social</span>
 <br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
+### Encarando <span style="color: #e49436">Markdown</span> problemáticas sociales <span style="color: #e49436">ODS</span>.
 
 ---
 
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
+<span style="color: #e49436">#Developers4Good</span>
 
 ![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
 
