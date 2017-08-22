@@ -27,7 +27,6 @@ Personas, Empresas y Organizaciones que quieren aprovechar la tecnología para g
 <span style="color: #e49436">problemáticas sociales</span> #hackTheWorld <span style="color: #666666">:trollface:</span>
 ---
 
-<span style="color: #e49436">#Aliados</span>
 ![ALIADOS](http://developersforgood.com/assets/css/images/D4G_aliados.png)
 
 ---
@@ -40,11 +39,7 @@ Personas, Empresas y Organizaciones que quieren aprovechar la tecnología para g
 
 <span style="color: #e49436">GET THE WORD OUT!</span>
 
-<br>
-
-<span style="font-size: 1.3em;"><span style="color:black">http://</span><span style="color:black">developers</span><span style="color: #e49436">forgood</span><span style="color: black">.com</span>
-
-Compartí 
+![COMPARTÍ](https://media.giphy.com/media/3hvmlYNsOTFWE/giphy.gif)
 
 ---
 
@@ -75,7 +70,6 @@ Compartí
 [](http://www.developersforgood.com)
 ![Te sumas](http://www.resistenciahuemul.com.ar/imgs/noticias/Acciones%20sociales31%20Argentina.%20Emprendedores%20y%20la%20ayuda%20economica%20de%20usuarios%20%2021May16.gif)
 <br>
-www.developersforgood.com
-<span style="color:gray">Comunidad #Developers4Good</span>
+<span style="font-size: 1.3em;"><span style="color:black">www.</span><span style="color:black">developers</span><span style="color: #e49436">forgood</span><span style="color: black">.com</span>
 --
 
