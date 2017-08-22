@@ -71,3 +71,5 @@ Personas, Empresas y Organizaciones que quieren aprovechar la tecnología para g
 <span style="font-size: 0.6em;"><span style="color:black">www.</span><span style="color:black">developers</span><span style="color: #e49436">forgood</span><span style="color: black">.com</span>
 --
 
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/jorgeroldan/D4G/master?grs=github&t=white)
+
