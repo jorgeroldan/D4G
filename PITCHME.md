@@ -1,4 +1,4 @@
-#### #Developers4Good [](http://www.developersforgood.com)
+### #Developers4Good [](http://www.developersforgood.com)
 <span style="color:gray; font-size:0.6em;">Sumate a la comunidad y pasá de la protesta a la propuesta</span>
 ![#Sumate a la comunidad #Developers4Good](http://www.mobilemonday.net/rm/1.gif)
 
@@ -24,7 +24,7 @@ Personas, Empresas y Organizaciones que quieren aprovechar la tecnología para g
 ![#hackTheWorld](https://media.giphy.com/media/uRz0rfdjuIsrC/giphy.gif)
 ### 5 <span style="color: #e49436">problemáticas sociales</span> #hackTheWorld <span style="color: #666666">:trollface:</span>
 
-<span style="color: #e49436">problemáticas sociales</span> #hackTheWorld <span style="color: #666666">:trollface:</span>
+<span style="color: #e49436">problemáticas sociales</span> #hackTheWorld 
 ---
 
 ![ALIADOS](http://developersforgood.com/assets/css/images/D4G_aliados.png)
