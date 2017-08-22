@@ -19,8 +19,8 @@ Personas, Empresas y Organizaciones que quieren aprovechar la tecnología para g
 
 ---
 
-### 1 <span style="color: #666666">comunidad</span>
-### 8 <span style="color: #666666">horas</span>
+### 1 <span style="color: #e49436">comunidad</span>
+### 8 <span style="color: #e49436">horas</span>
 ![#hackTheWorld](https://media.giphy.com/media/uRz0rfdjuIsrC/giphy.gif)
 ### 5 <span style="color: #e49436">problemáticas sociales</span> #hackTheWorld <span style="color: #666666">:trollface:</span>
 
@@ -45,8 +45,6 @@ Personas, Empresas y Organizaciones que quieren aprovechar la tecnología para g
 
 <span style="color: #e49436">Objetivos</span>#Developers4Good
 
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
-
 - Item 1
 - Item 2
 - Item 3
@@ -70,6 +68,6 @@ Personas, Empresas y Organizaciones que quieren aprovechar la tecnología para g
 [](http://www.developersforgood.com)
 ![Te sumas](http://www.resistenciahuemul.com.ar/imgs/noticias/Acciones%20sociales31%20Argentina.%20Emprendedores%20y%20la%20ayuda%20economica%20de%20usuarios%20%2021May16.gif)
 <br>
-<span style="font-size: 1.3em;"><span style="color:black">www.</span><span style="color:black">developers</span><span style="color: #e49436">forgood</span><span style="color: black">.com</span>
+<span style="font-size: 0.6em;"><span style="color:black">www.</span><span style="color:black">developers</span><span style="color: #e49436">forgood</span><span style="color: black">.com</span>
 --
 
